@@ -2,3 +2,6 @@ modif 4 rebase interactif
 modif 5 rebase interactif modif 1 rebase interactif
 modif 2 rebase interactif
 modif 4 rebase interactif
+modif file 2
+modif 1 rebase interactif
+
