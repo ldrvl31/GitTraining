@@ -1,4 +1,4 @@
 test
 modif 1
 modif 2ter
-modif de merge modif master pour le test de rebase
+texte fichier 1 pour le rebase
