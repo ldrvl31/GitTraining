@@ -1,0 +1,5 @@
+#remove target directory
+target/
+
+#remove test
+*.test
