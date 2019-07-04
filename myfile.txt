@@ -1,0 +1,10 @@
+total 40
+-rw-r--r--  1 olivier  wheel  102  4 jul 14:21 file1.txt
+-rw-r--r--  1 olivier  wheel   13  4 jul 14:21 file2.txt
+-rw-r--r--  1 olivier  wheel   50  4 jul 14:21 file3.txt
+-rw-r--r--  1 olivier  wheel    0  4 jul 14:21 file4.txt
+-rw-r--r--  1 olivier  wheel   11  4 jul 14:21 file5.txt
+-rw-r--r--  1 olivier  wheel    0  4 jul 14:21 file6.txt
+-rw-r--r--  1 olivier  wheel    0  4 jul 14:21 file7.txt
+-rw-r--r--  1 olivier  wheel    0  4 jul 14:22 myfile.txt
+-rw-r--r--  1 olivier  wheel   23  4 jul 14:21 readme.txt
